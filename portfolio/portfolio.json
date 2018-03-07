@@ -6,6 +6,11 @@
 			"@type": "Painting"
 		},
 		{
+			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
+			"name": "Fishwall",
+			"@type": "Painting"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
 			"name": "Web Coffe Marilyn",
 			"@type": "Painting"
@@ -19,10 +24,6 @@
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
 			"@type": "Painting"
-		},
-		{
-			"image": "https://cdn.rawgit.com/TroyRobinson/data/c60c2af32b0ba3c7ed3861773e761a6e264e9fa2/portfolio/images/vitor-pinto-585963-unsplash.jpg",
-			"name": "Beach"
 		}
 	]
 }
